@@ -1,0 +1,3 @@
+# keep Windows scripts runnable after a git checkout on any OS
+*.bat text eol=crlf
+*.sh text eol=lf

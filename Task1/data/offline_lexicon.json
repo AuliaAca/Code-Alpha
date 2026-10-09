@@ -1,0 +1,467 @@
+{
+ "_note": "Tiny demo lexicon (English pivot). Not a real MT model.",
+ "entries": {
+  "hello": {
+   "id": "halo",
+   "es": "hola",
+   "fr": "bonjour",
+   "de": "hallo"
+  },
+  "hi": {
+   "id": "hai",
+   "es": "hola",
+   "fr": "salut",
+   "de": "hallo"
+  },
+  "good": {
+   "id": "baik",
+   "es": "bueno",
+   "fr": "bon",
+   "de": "gut"
+  },
+  "morning": {
+   "id": "pagi",
+   "es": "mañana",
+   "fr": "matin",
+   "de": "morgen"
+  },
+  "night": {
+   "id": "malam",
+   "es": "noche",
+   "fr": "nuit",
+   "de": "nacht"
+  },
+  "thank": {
+   "id": "terima",
+   "es": "gracias",
+   "fr": "merci",
+   "de": "danke"
+  },
+  "thanks": {
+   "id": "terima kasih",
+   "es": "gracias",
+   "fr": "merci",
+   "de": "danke"
+  },
+  "you": {
+   "id": "kamu",
+   "es": "tú",
+   "fr": "vous",
+   "de": "du"
+  },
+  "i": {
+   "id": "saya",
+   "es": "yo",
+   "fr": "je",
+   "de": "ich"
+  },
+  "we": {
+   "id": "kami",
+   "es": "nosotros",
+   "fr": "nous",
+   "de": "wir"
+  },
+  "love": {
+   "id": "cinta",
+   "es": "amor",
+   "fr": "amour",
+   "de": "liebe"
+  },
+  "world": {
+   "id": "dunia",
+   "es": "mundo",
+   "fr": "monde",
+   "de": "welt"
+  },
+  "how": {
+   "id": "bagaimana",
+   "es": "cómo",
+   "fr": "comment",
+   "de": "wie"
+  },
+  "are": {
+   "id": "adalah",
+   "es": "estás",
+   "fr": "êtes",
+   "de": "bist"
+  },
+  "is": {
+   "id": "adalah",
+   "es": "es",
+   "fr": "est",
+   "de": "ist"
+  },
+  "what": {
+   "id": "apa",
+   "es": "qué",
+   "fr": "quoi",
+   "de": "was"
+  },
+  "where": {
+   "id": "di mana",
+   "es": "dónde",
+   "fr": "où",
+   "de": "wo"
+  },
+  "name": {
+   "id": "nama",
+   "es": "nombre",
+   "fr": "nom",
+   "de": "name"
+  },
+  "my": {
+   "id": "saya",
+   "es": "mi",
+   "fr": "mon",
+   "de": "mein"
+  },
+  "your": {
+   "id": "kamu",
+   "es": "tu",
+   "fr": "votre",
+   "de": "dein"
+  },
+  "please": {
+   "id": "tolong",
+   "es": "por favor",
+   "fr": "s'il vous plaît",
+   "de": "bitte"
+  },
+  "yes": {
+   "id": "ya",
+   "es": "sí",
+   "fr": "oui",
+   "de": "ja"
+  },
+  "no": {
+   "id": "tidak",
+   "es": "no",
+   "fr": "non",
+   "de": "nein"
+  },
+  "water": {
+   "id": "air",
+   "es": "agua",
+   "fr": "eau",
+   "de": "wasser"
+  },
+  "food": {
+   "id": "makanan",
+   "es": "comida",
+   "fr": "nourriture",
+   "de": "essen"
+  },
+  "friend": {
+   "id": "teman",
+   "es": "amigo",
+   "fr": "ami",
+   "de": "freund"
+  },
+  "house": {
+   "id": "rumah",
+   "es": "casa",
+   "fr": "maison",
+   "de": "haus"
+  },
+  "book": {
+   "id": "buku",
+   "es": "libro",
+   "fr": "livre",
+   "de": "buch"
+  },
+  "music": {
+   "id": "musik",
+   "es": "música",
+   "fr": "musique",
+   "de": "musik"
+  },
+  "sun": {
+   "id": "matahari",
+   "es": "sol",
+   "fr": "soleil",
+   "de": "sonne"
+  },
+  "day": {
+   "id": "hari",
+   "es": "día",
+   "fr": "jour",
+   "de": "tag"
+  },
+  "today": {
+   "id": "hari ini",
+   "es": "hoy",
+   "fr": "aujourd'hui",
+   "de": "heute"
+  },
+  "beautiful": {
+   "id": "indah",
+   "es": "hermoso",
+   "fr": "beau",
+   "de": "schön"
+  },
+  "the": {
+   "id": "itu",
+   "es": "el",
+   "fr": "le",
+   "de": "der"
+  },
+  "a": {
+   "id": "sebuah",
+   "es": "un",
+   "fr": "un",
+   "de": "ein"
+  },
+  "and": {
+   "id": "dan",
+   "es": "y",
+   "fr": "et",
+   "de": "und"
+  },
+  "with": {
+   "id": "dengan",
+   "es": "con",
+   "fr": "avec",
+   "de": "mit"
+  },
+  "in": {
+   "id": "di",
+   "es": "en",
+   "fr": "dans",
+   "de": "in"
+  },
+  "of": {
+   "id": "dari",
+   "es": "de",
+   "fr": "de",
+   "de": "von"
+  },
+  "scene": {
+   "id": "adegan",
+   "es": "escena",
+   "fr": "scène",
+   "de": "szene"
+  },
+  "has": {
+   "id": "memiliki",
+   "es": "tiene",
+   "fr": "a",
+   "de": "hat"
+  },
+  "object": {
+   "id": "objek",
+   "es": "objeto",
+   "fr": "objet",
+   "de": "objekt"
+  },
+  "objects": {
+   "id": "objek",
+   "es": "objetos",
+   "fr": "objets",
+   "de": "objekte"
+  },
+  "detected": {
+   "id": "terdeteksi",
+   "es": "detectado",
+   "fr": "détecté",
+   "de": "erkannt"
+  },
+  "tracked": {
+   "id": "dilacak",
+   "es": "rastreado",
+   "fr": "suivi",
+   "de": "verfolgt"
+  },
+  "moving": {
+   "id": "bergerak",
+   "es": "moviéndose",
+   "fr": "en mouvement",
+   "de": "bewegend"
+  },
+  "person": {
+   "id": "orang",
+   "es": "persona",
+   "fr": "personne",
+   "de": "person"
+  },
+  "people": {
+   "id": "orang-orang",
+   "es": "personas",
+   "fr": "personnes",
+   "de": "personen"
+  },
+  "car": {
+   "id": "mobil",
+   "es": "coche",
+   "fr": "voiture",
+   "de": "auto"
+  },
+  "ball": {
+   "id": "bola",
+   "es": "pelota",
+   "fr": "balle",
+   "de": "ball"
+  },
+  "bus": {
+   "id": "bus",
+   "es": "autobús",
+   "fr": "bus",
+   "de": "bus"
+  },
+  "truck": {
+   "id": "truk",
+   "es": "camión",
+   "fr": "camion",
+   "de": "lastwagen"
+  },
+  "bicycle": {
+   "id": "sepeda",
+   "es": "bicicleta",
+   "fr": "vélo",
+   "de": "fahrrad"
+  },
+  "motorcycle": {
+   "id": "sepeda motor",
+   "es": "motocicleta",
+   "fr": "moto",
+   "de": "motorrad"
+  },
+  "dog": {
+   "id": "anjing",
+   "es": "perro",
+   "fr": "chien",
+   "de": "hund"
+  },
+  "cat": {
+   "id": "kucing",
+   "es": "gato",
+   "fr": "chat",
+   "de": "katze"
+  },
+  "bird": {
+   "id": "burung",
+   "es": "pájaro",
+   "fr": "oiseau",
+   "de": "vogel"
+  },
+  "bottle": {
+   "id": "botol",
+   "es": "botella",
+   "fr": "bouteille",
+   "de": "flasche"
+  },
+  "chair": {
+   "id": "kursi",
+   "es": "silla",
+   "fr": "chaise",
+   "de": "stuhl"
+  },
+  "one": {
+   "id": "satu",
+   "es": "uno",
+   "fr": "un",
+   "de": "eins"
+  },
+  "two": {
+   "id": "dua",
+   "es": "dos",
+   "fr": "deux",
+   "de": "zwei"
+  },
+  "three": {
+   "id": "tiga",
+   "es": "tres",
+   "fr": "trois",
+   "de": "drei"
+  },
+  "four": {
+   "id": "empat",
+   "es": "cuatro",
+   "fr": "quatre",
+   "de": "vier"
+  },
+  "five": {
+   "id": "lima",
+   "es": "cinco",
+   "fr": "cinq",
+   "de": "fünf"
+  },
+  "red": {
+   "id": "merah",
+   "es": "rojo",
+   "fr": "rouge",
+   "de": "rot"
+  },
+  "blue": {
+   "id": "biru",
+   "es": "azul",
+   "fr": "bleu",
+   "de": "blau"
+  },
+  "green": {
+   "id": "hijau",
+   "es": "verde",
+   "fr": "vert",
+   "de": "grün"
+  },
+  "orange": {
+   "id": "oranye",
+   "es": "naranja",
+   "fr": "orange",
+   "de": "orange"
+  },
+  "yellow": {
+   "id": "kuning",
+   "es": "amarillo",
+   "fr": "jaune",
+   "de": "gelb"
+  },
+  "shape": {
+   "id": "bentuk",
+   "es": "forma",
+   "fr": "forme",
+   "de": "form"
+  },
+  "square": {
+   "id": "kotak",
+   "es": "cuadrado",
+   "fr": "carré",
+   "de": "quadrat"
+  },
+  "circle": {
+   "id": "lingkaran",
+   "es": "círculo",
+   "fr": "cercle",
+   "de": "kreis"
+  },
+  "triangle": {
+   "id": "segitiga",
+   "es": "triángulo",
+   "fr": "triangle",
+   "de": "dreieck"
+  },
+  "melody": {
+   "id": "melodi",
+   "es": "melodía",
+   "fr": "mélodie",
+   "de": "melodie"
+  },
+  "translate": {
+   "id": "terjemahkan",
+   "es": "traducir",
+   "fr": "traduire",
+   "de": "übersetzen"
+  },
+  "language": {
+   "id": "bahasa",
+   "es": "idioma",
+   "fr": "langue",
+   "de": "sprache"
+  },
+  "video": {
+   "id": "video",
+   "es": "vídeo",
+   "fr": "vidéo",
+   "de": "video"
+  }
+ }
+}

@@ -1,0 +1,6 @@
+opencv-python>=4.8
+numpy>=1.26
+scipy>=1.11
+ultralytics>=8.1     # YOLO; without it the motion detector is used
+streamlit>=1.40
+pytest>=8.0

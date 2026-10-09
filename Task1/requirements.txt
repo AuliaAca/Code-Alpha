@@ -1,0 +1,4 @@
+requests>=2.31
+streamlit>=1.40
+gTTS>=2.5               # optional text-to-speech (needs internet)
+pytest>=8.0

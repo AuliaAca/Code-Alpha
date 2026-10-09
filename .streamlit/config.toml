@@ -1,0 +1,7 @@
+# Read when `streamlit run` is started from the repository root (run.bat does that).
+[server]
+showEmailPrompt = false      # skip the first-run "Email:" question in the terminal
+maxUploadSize = 500          # MB, for Task4 video uploads
+
+[browser]
+gatherUsageStats = false
